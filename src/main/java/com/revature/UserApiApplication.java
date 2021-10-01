@@ -10,4 +10,5 @@ public class UserApiApplication {
 		SpringApplication.run(UserApiApplication.class, args);
 	}
 	// Test comment
+	// Another test comment
 }
